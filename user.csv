@@ -1,0 +1,7 @@
+"ID","NAME","SURNAME","PART","ROLE","PASS","SALARY","EMAIL"
+"1","Ivan","Ivanov","Ivanovich","Doctor","a722c63db8ec8625af6cf71cb8c2d939","30000","i.i.i@i.i"
+"2","Maria","Ivanova","Ivanovna","Doctor","c1572d05424d0ecb2a65ec6a82aeacbf","40000","mii@yandex.ru"
+"3","Maria","Last_name",NULL,"Doctor","3afc79b597f88a72528e864cf81856d2","50000","ml@yandex.ru"
+"4","Anna","Smith",NULL,"Patient","fc2921d9057ac44e549efaf0048b2512",NULL,"anna1537@gmail.com"
+"5","Karl","Smith",NULL,"Patient","fc2921d9057ac44e549efaf0048b2512",NULL,"karl1337@gmail.com"
+"6","Daria","Lavronova","Petrovna","Doctor","e9568c9ea43ab05188410a7cf85f9f5e","60000","dlp@yandex.ru"
